@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm **Omar**, an **IT & Data Engineering** student who enjoys turning raw data into models and building the applications around them.
+I'm **Omar**, an **IT & Data Engineer** who enjoys turning raw data into models and building the applications around them.
 
 - 📊 Working across the data pipeline: **exploration → dimensionality reduction → modeling → evaluation**
 - ⚡ Processing data at scale with **Apache Spark (PySpark MLlib)**
