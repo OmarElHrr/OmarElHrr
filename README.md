@@ -87,7 +87,7 @@ I'm **Omar**, an **IT & Data Engineer** who enjoys turning raw data into models 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/OmarElHrr/TP-1-DEEP-LEARNING">Deep Learning — TP 1</a></h3>
+      <h3>🧠 <a href="https://github.com/OmarElHrr/TP-1-DEEP-LEARNING">Deep Learning with PyTorch</a></h3>
       <p>Building and training neural networks with <b>PyTorch</b> (<code>nn</code>, <code>optim</code>, <code>DataLoader</code>) on classic datasets, with training curves and model visualization.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -106,7 +106,7 @@ I'm **Omar**, an **IT & Data Engineer** who enjoys turning raw data into models 
   <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/OmarElHrr/Atelier-JS-Projet-CHATBOT">AI Chatbot</a></h3>
-      <p>A full-stack chatbot: an <b>Angular</b> client talking to a <b>Node.js / Express</b> API backed by <b>MongoDB</b> and the <b>OpenAI API</b>, plus JavaScript workshops.</p>
+      <p>A full-stack chatbot: an <b>Angular</b> client talking to a <b>Node.js / Express</b> API backed by <b>MongoDB</b> and the <b>OpenAI API</b>, alongside smaller JavaScript projects.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -114,8 +114,8 @@ I'm **Omar**, an **IT & Data Engineer** who enjoys turning raw data into models 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/OmarElHrr/Atelier-J2EE">J2EE Workshops</a></h3>
-      <p>A series of Java EE workshops and a final <b>Spring Boot 3</b> project using Spring Data JPA, Thymeleaf and Jakarta Validation, built with Gradle.</p>
+      <h3>☕ <a href="https://github.com/OmarElHrr/Atelier-J2EE">Spring Boot &amp; J2EE</a></h3>
+      <p>Java EE projects and a <b>Spring Boot 3</b> web application using Spring Data JPA, Thymeleaf and Jakarta Validation, built with Gradle.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
