@@ -129,16 +129,16 @@ I'm **Omar**, an **IT & Data Engineering** student who enjoys turning raw data i
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarElHrr&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElHrr&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&langs_count=6" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarElHrr&theme=tokyonight" alt="Profile details and contributions" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarElHrr&theme=tokyonight" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarElHrr&theme=tokyonight" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OmarElHrr&hide_border=true&background=0f172a&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElHrr&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=ffffff&area=true&area_color=0ea5e9&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
 ---
